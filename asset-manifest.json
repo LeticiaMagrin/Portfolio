@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/static/css/main.55aae532.css",
-    "main.js": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/static/js/main.685d00df.js",
-    "static/media/profile.png": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/static/media/profile.af832f0af6656d0e495c.png",
-    "static/media/project2.jpg": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/static/media/project2.5fae296d371cc56cd98a.jpg",
-    "static/media/project4.jpg": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/static/media/project4.a7b7ed11daa072b234eb.jpg",
-    "static/media/project3.jpg": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/static/media/project3.03535c34c110b7ea292b.jpg",
-    "static/media/logo.png": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/static/media/logo.80e396367cc8872c2db5.png",
-    "static/media/project5.jpg": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
-    "static/media/project6.jpg": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/static/media/project6.a22c939898d6c4613b65.jpg",
-    "index.html": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/index.html",
-    "main.55aae532.css.map": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/static/css/main.55aae532.css.map",
-    "main.685d00df.js.map": "/%3Chttps://leticiamagrin.github.io/Portfolio/%3E/static/js/main.685d00df.js.map"
+    "main.css": "/%3Chttps://leticiamagrin.github.io/%3E/static/css/main.55aae532.css",
+    "main.js": "/%3Chttps://leticiamagrin.github.io/%3E/static/js/main.74abdd95.js",
+    "static/media/profile.png": "/%3Chttps://leticiamagrin.github.io/%3E/static/media/profile.af832f0af6656d0e495c.png",
+    "static/media/project2.jpg": "/%3Chttps://leticiamagrin.github.io/%3E/static/media/project2.5fae296d371cc56cd98a.jpg",
+    "static/media/project4.jpg": "/%3Chttps://leticiamagrin.github.io/%3E/static/media/project4.a7b7ed11daa072b234eb.jpg",
+    "static/media/project3.jpg": "/%3Chttps://leticiamagrin.github.io/%3E/static/media/project3.03535c34c110b7ea292b.jpg",
+    "static/media/logo.png": "/%3Chttps://leticiamagrin.github.io/%3E/static/media/logo.80e396367cc8872c2db5.png",
+    "static/media/project5.jpg": "/%3Chttps://leticiamagrin.github.io/%3E/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/project6.jpg": "/%3Chttps://leticiamagrin.github.io/%3E/static/media/project6.a22c939898d6c4613b65.jpg",
+    "index.html": "/%3Chttps://leticiamagrin.github.io/%3E/index.html",
+    "main.55aae532.css.map": "/%3Chttps://leticiamagrin.github.io/%3E/static/css/main.55aae532.css.map",
+    "main.74abdd95.js.map": "/%3Chttps://leticiamagrin.github.io/%3E/static/js/main.74abdd95.js.map"
   },
   "entrypoints": [
     "static/css/main.55aae532.css",
-    "static/js/main.685d00df.js"
+    "static/js/main.74abdd95.js"
   ]
 }
