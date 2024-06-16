@@ -7,15 +7,14 @@ function Technologies() {
     css,
     js,
     react,
-    redux,
+    vue,
     tailwind,
-    bootstrap,
     sass,
+    bootstrap,
     vscode,
     git,
     github,
     npm,
-    postman,
     figma,
   } = techStackDetails;
   return (
@@ -33,7 +32,7 @@ function Technologies() {
         <img src={css} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />
         <img src={react} title="React" alt="" />
-        <img src={redux} title="Redux" alt="" />
+        <img src={vue} title="Vue" alt="" />
         <img src={tailwind} title="Tailwind CSS" alt="" />
         <img src={bootstrap} title="Bootstrap" alt="" />
         <img src={sass} title="SASS" alt="" />
@@ -49,7 +48,6 @@ function Technologies() {
         <img src={github} title="Github" alt="Github" />
         <img src={figma} title="Figma" alt="Figma" />
         <img src={npm} title="NPM" alt="NPM" />
-        <img src={postman} title="Postman" alt="Postman" />
       </section>
     </main>
   );

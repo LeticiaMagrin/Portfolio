@@ -17,6 +17,7 @@ import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import figma from "./assets/techstack/figma.png";
+import vue from "./assets/techstack/vue.webp"
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
@@ -36,15 +37,14 @@ export const personalDetails = {
   name: "Leticia Magrin",
   tagline: "",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `3+ years of experience and a focus on crafting exceptional digital interfaces, I master the core front-end technologies to build high-quality websites and web applications, always with the user experience in mind. `,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/in/LeticiaMagrin",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  github: "https://www.github.com/leticiamagrin",
+
 };
 
 // Enter your Work Experience here
@@ -96,6 +96,7 @@ export const techStackDetails = {
   css: css,
   js: js,
   react: react,
+  vue: vue,
   sass: sass,
   tailwind: tailwind,
   bootstrap: bootstrap,
