@@ -20,7 +20,7 @@ import figma from "./assets/techstack/figma.png";
 import vue from "./assets/techstack/vue.webp"
 // Porject Images
 import projectImage1 from "./assets/projects/project1.png";
-// import projectImage2 from "./assets/projects/project2.jpg";
+import projectImage2 from "./assets/projects/project2.png";
 // import projectImage3 from "./assets/projects/project3.jpg";
 // import projectImage4 from "./assets/projects/project4.jpg";
 // import projectImage5 from "./assets/projects/project5.jpg";
@@ -109,6 +109,14 @@ export const techStackDetails = {
 
 // Enter your Project Details here
 export const projectDetails = [
+  {
+    title: "Hiperquímica",
+    image: projectImage2,
+    description: `Hiperquimica Website built in ReactJs and Bootstrap, with company projects and details.`,
+    techstack: "React JS, Bootstrap",
+    previewLink: "https://www.hiperquimica.com.br/",
+   
+  },
   {
     title: "Portfolio",
     image: projectImage1,
